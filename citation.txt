@@ -1,0 +1,7 @@
+@inproceedings{REPO-101,
+    author = "Yang, Jingyuan and Li, Jie and Li, Leida and Wang, Xiumei and Gao, Xinbo",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "4237--4246",
+    title = "{A Circular-structured Representation for Visual Emotion Distribution Learning}",
+    year = "2021"
+}
